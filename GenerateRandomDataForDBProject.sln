@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GenerateRandomDataForDBProject", "GenerateRandomDataForDBProject.pyproj", "{D4409C57-22C5-481E-9565-AC7B2F7D6D28}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WarehouseAndSuppliersRandom", "WarehouseAndSuppliersRandom\WarehouseAndSuppliersRandom.pyproj", "{5EE3897F-A50A-4D84-B688-61A6733D6611}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BudgetsAndAccountsRandom", "BudgetsAndAccountsRandom\BudgetsAndAccountsRandom.pyproj", "{097C4F01-2968-438A-A81D-59E1B7420390}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LeadsAndPromotionsRandom", "LeadsAndPromotionsRandom\LeadsAndPromotionsRandom.pyproj", "{705B479D-5525-4911-B634-5B30996A4656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4409C57-22C5-481E-9565-AC7B2F7D6D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4409C57-22C5-481E-9565-AC7B2F7D6D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE3897F-A50A-4D84-B688-61A6733D6611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE3897F-A50A-4D84-B688-61A6733D6611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097C4F01-2968-438A-A81D-59E1B7420390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097C4F01-2968-438A-A81D-59E1B7420390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705B479D-5525-4911-B634-5B30996A4656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705B479D-5525-4911-B634-5B30996A4656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {747D9669-E03F-4CA4-BA7E-0ED9E8B67B40}
+	EndGlobalSection
+EndGlobal
